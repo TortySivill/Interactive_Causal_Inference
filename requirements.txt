@@ -3,7 +3,7 @@ attrs==19.3.0
 cffi==1.14.0
 cycler==0.10.0
 decorator==4.4.2
-Jinja2==2.11.2
+Jinja2==2.11.3
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.3.0
