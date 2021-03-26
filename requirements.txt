@@ -17,5 +17,5 @@ pymunk==5.6.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytiled-parser==0.9.4a3
-PyYAML==5.3.1
+PyYAML==5.4
 six==1.15.0
